@@ -1,0 +1,2 @@
+-Removed username from registration form
+-Romoved username from login_details table
